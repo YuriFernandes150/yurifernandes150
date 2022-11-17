@@ -1,4 +1,4 @@
-<h3 align="center">Passionate programmer since 2018</h3>
+<h3 align="center">Programming professionally since 2018</h3>
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
