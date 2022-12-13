@@ -27,4 +27,4 @@ Languages: English | Português - BR
 
 <h4 align="left">Employment Status:</h4>
 
-[![Currently employed](https://img.shields.io/badge/Currently_Employed-brightgreen.svg)](https://github.com/yurifernandes150)
+[![Currently employed](https://img.shields.io/badge/Currently_Employed-brightgreen.svg)](https://www.instagram.com/eas.automacao/)
