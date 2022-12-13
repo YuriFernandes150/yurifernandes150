@@ -2,7 +2,7 @@
 
 Hi there! I'm Yuri Fernandes Gomes and I'm a software developer with experience in Java, Spring, JavaScript, GML, and Vaadin.
 
-I'm currently learning Typescript, Electron, and Spring Cloud. 
+My main hobbies include swimming, drawing, and gaming.
 
 Languages: English | Português - BR
 
