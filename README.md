@@ -6,11 +6,6 @@ I'm currently learning Typescript, Electron, and Spring Cloud.
 
 Languages: English | Português - BR
 
-<h3 align="left">Find me at:</h3>
-<p align="left">
-<a title="LinkedIn" href="https://linkedin.com/in/yuri-fernandes-527380b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuri-fernandes-527380b9" height="30" width="40" /></a>
-<a title="Stack Overflow" href="https://stackoverflow.com/users/9370318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9370318" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">What I know:</h3>
 <p align="left">
@@ -22,6 +17,14 @@ Languages: English | Português - BR
 <a title="CSS" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a title="Kubernetes" href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a><a title="React Js" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a title="React Native" href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></a><a title="Electron" href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Contact</h3>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="22px" height="22px"></img> [![LikedIn](https://img.shields.io/badge/My_LinkedIn-0072B1)](https://linkedin.com/in/yuri-fernandes-527380b9) 
 
-[![Currently employed](https://img.shields.io/badge/Currently-Employed-brightgreen.svg)](https://github.com/yurifernandes150)
+<img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png" width="22px" height="22px"></img> [![Telegram](https://img.shields.io/badge/Telegram-0088CC)](https://t.me/YuriFernandes150) 
+
+<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" width="22px" height="22px"></img> [![Discord](https://img.shields.io/badge/My_Discord_Profile-5865F2)](https://discordapp.com/users/404054872649105410)
+
+<h4 align="left">Employment Status:</h4>
+
+[![Currently employed](https://img.shields.io/badge/Currently_Employed-brightgreen.svg)](https://github.com/yurifernandes150)
