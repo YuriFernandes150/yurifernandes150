@@ -1,6 +1,6 @@
 <h3 align="center">Programming professionally since 2018</h3>
 
-Hi there! I'm Yuri Fernandes Gomes and I'm a software developer with experience in Java, Spring, JavaScript, GML, and Vaadin.
+Hi there! I'm Yuri Fernandes Gomes and I'm a software developer with experience in Java, Spring, JavaScript, Flutter, Dart, and Vaadin.
 
 My main hobbies include swimming, drawing, and gaming.
 
