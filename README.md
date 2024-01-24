@@ -14,7 +14,7 @@ Languages: English | Português - BR
 
 <h3 align="left">What I'm learning:</h3>
 <p align="left">
-<a title="Kubernetes" href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <a title="Flutter" href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_delphi.svg" alt="Delphi" width="40" height="40"/>
+<a title="Kubernetes" href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <a title="Delphi" href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_delphi.svg" alt="Delphi" width="40" height="40"/>
 </p>
 
 <h3 align="left">Contact</h3>
